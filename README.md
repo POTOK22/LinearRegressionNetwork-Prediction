@@ -1,2 +1,2 @@
 # SNIAG-LinearRegressionNetwork
-Sieci Neuronowe i Algorytmy Genetyczne Projekt - Linear Neural Networks for Regression
+Linear Neural Networks comparision for prediction by regression
